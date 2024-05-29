@@ -5,9 +5,8 @@ I'm currently pursuing my Masters in Cyber Forensics and Information Security. W
 
 ## Skills
 - Network Security
-- Programming (Python, Java, etc.)
+- Fundamental Skill in Programming (Python)
 - Cybersecurity Fundamentals
-- Encryption Techniques
 
 ## Contact
 - LinkedIn: [Mohamed Thalal](https://www.linkedin.com/in/mdthalal-cybersec)
