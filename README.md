@@ -16,4 +16,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-thalal&" alt="md-thalal" />
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=md-thalal&show_icons=true&locale=en" alt="md-thalal" /></p>
+
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-thalal&show_icons=true&locale=en" alt="md-thalal" /></p>
