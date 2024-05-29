@@ -1,5 +1,7 @@
 # Hi there, I'm Mohamed Thalal! 👋
 
+<img src="GitDeveloper1.jpg" width = 250 />
+
 ## About Me 📝
 I'm currently pursuing my Masters in Cyber Forensics and Information Security. With a keen interest in cybersecurity, I'm passionate about exploring various aspects of network security, programming, and cybersecurity investigations.
 
