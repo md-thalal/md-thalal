@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Thalal</h1>
-<h3 align="center">A passionate in CyberSecurity from India</h3>
+<h3 align="center">I'm currently pursuing my Masters in Cyber Forensics and Information Security. With a keen interest in cybersecurity, I'm passionate about exploring various aspects of network security, programming, and cybersecurity investigations.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-thalal&label=Profile%20views&color=0e75b6&style=flat" alt="md-thalal" /> </p>
-<img src="GitDeveloper1.jpg" width=100% />
+<img src="GitDeveloper1.jpg" width=100% /> 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-thalal" alt="md-thalal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
