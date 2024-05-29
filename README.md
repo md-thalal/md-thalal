@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Thalal</h1>
-<h3 align="center">A passionate in cybersecurity from India</h3>
+<h3 align="center">A passionate in CyberSecurity from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-thalal&label=Profile%20views&color=0e75b6&style=flat" alt="md-thalal" /> </p>
 <img src="GitDeveloper1.jpg" width=100% />
